@@ -1,7 +1,7 @@
 {
-  "name": "pxdecoder",
+  "name": "pxdecoder-non-cli",
   "version": "1.0.3",
-  "description": "Easily decode all Cgt strings for Perimeter X scripts.",
+  "description": "Easily decode all Cgt strings for Perimeter X scripts inside your code.",
   "main": "pxDecode.js",
   "bin": "pxDecode.js",
   "dependencies": {
